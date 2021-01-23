@@ -2,7 +2,7 @@
 
 This is **Rajib Ahmed**, currently working at **[BCS Administration Academy](http://bcsadminacademy.gov.bd/)** which located in Dhaka.
 
-Here are some ideas about me:
+**Here are some ideas about me:**
 
 - 🏢 I’m currently studing on **Computer Science and Engineering**
 - 🎓 I’m currently working on **BCS Administration Academy**
