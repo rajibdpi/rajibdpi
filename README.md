@@ -4,7 +4,7 @@ This is **[Rajib Ahmed](https://rajibdpi.github.io/)**, currently working at **[
 
 **Here are some ideas about me:**
 
-- 🏢 I’m currently studing on **Computer Science and Engineering**
+- 🏢 I’m currently studing in **Computer Science and Engineering**
 - 🎓 I’m currently working on **BCS Administration Academy**
 - 💻 I’m currently learning **JavaScript, Pyhton, Flutter, Dart, C#, Shell script**
 - 🔗 Reach me at web: **[Rajib Ahmed](https://rajibdpi.github.io/)**
