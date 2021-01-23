@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--**rajibdpi/rajibdpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+This is **Rajib Ahmed**, currently working at **[BCS Administration Academy](http://bcsadministrationacademy.gov.bd/)**
 
 Here are some ideas to get you started:
 
