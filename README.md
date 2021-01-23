@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is **Rajib Ahmed**, currently working at **[BCS Administration Academy](http://bcsadministrationacademy.gov.bd/)**
+This is **Rajib Ahmed**, currently working at **[BCS Administration Academy](http://bcsadminacademy.gov.bd/)**
 
 Here are some ideas to get you started:
 
