@@ -4,8 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **BCS Administration Academy**
-- 🌱 I’m currently learning **JavaScript, Pyhton, Flutter, Dart, C#**
+- 🏢 I’m currently studing on **Computer Science and Engineering**
+- 🎓 I’m currently working on **BCS Administration Academy**
+- 💻 I’m currently learning **JavaScript, Pyhton, Flutter, Dart, C#**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
