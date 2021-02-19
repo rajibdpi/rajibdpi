@@ -1,0 +1,200 @@
+
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+
+  <meta charset="UTF-8">
+  
+<link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />
+<meta name="apple-mobile-web-app-title" content="CodePen">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />
+
+<link rel="mask-icon" type="" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" />
+
+
+  <title>CodePen - CSS3 Animated Skill Progress bar</title>
+  
+  
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,100'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css'>
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'>
+  
+<style>
+.wrapper{
+        width: 400px;
+        font-family: 'Roboto', sans-serif;
+	margin:0 auto;
+    }
+    .skill {
+        margin-bottom: 35px;
+        position: relative;
+			overflow-x:hidden;
+			
+    }
+    .skill > p {
+        font-size: 18px;
+        font-weight: 700;
+        color: #1a1716;
+        margin: 0;
+    }
+    .skill:before{
+        width: 100%;
+        height: 5px;
+        content: "";
+        display: block;
+        position: absolute;
+        background: #959595;
+        bottom: 0;
+    }
+    .skill-bar {
+        width: 100%;
+        height: 5px;
+        background:#f4392f;
+        display: block;
+        position: relative;
+    }
+
+    /* SKILL 1 */
+    .skill1{
+        width: 95%;
+			
+    }
+    .skill-bar span{
+        position: absolute;
+        border-top: 5px solid #f4392f;
+        top: -30px;
+        padding: 0;
+        font-size: 18px;
+        padding: 3px 0;
+        font-weight: 500;
+    }
+    .skill-bar {
+        position: relative;
+			
+    }
+
+    .skill1 .skill-count1 {
+        right: 0;
+    }
+    /* SKILL 2 */
+    .skill2{
+        width: 85%;
+    }
+
+    .skill2 .skill-count2 {
+        right: 0;
+    }
+    /* SKILL 3 */
+    .skill3{
+        width: 75%;
+    }
+    .skill3 .skill-count3 {
+        right: 0;
+    }
+
+    /* SKILL 4 */
+    .skill4{
+        width: 65%
+    }
+
+    .skill4 .skill-count4 {
+        right: 0;
+    }
+
+    /* SKILL 5 */
+    .skill5{
+        width: 80%;
+    }
+
+    .skill5 .skill-count5 {
+        right: 0;
+    }
+
+    /* SKILL 6 */
+    .skill6{
+        width: 90%
+    }
+
+    .skill6 .skill-count6 {
+        right: 0;
+    }
+/* GITHUB SOURCE STYLE  */
+.github-source{
+	float:right;
+	display:block;
+	color:#fff;
+	margin:0 20px;
+	position: relative;
+	z-index:999999;
+	top:0;
+}
+.github-source i{
+	font-size:50px;
+	color:#000
+}
+</style>
+
+</head>
+
+<body translate="no" >
+  <a class="github-source" href="https://github.com/speeedsam/CSS3-Animated-Skill-Prograss-bar"  target="_blank"><i class="fa fa-github"></i></a>
+<div class="wrapper">
+        <h2 class="how-title">CSS3 Animated Skill Progress bar</h2>
+				<br><br>
+        <div class="skill">
+            <p>HTML5</p>
+            <div class="skill-bar skill1 wow slideInLeft animated">
+                <span class="skill-count1">95%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>CSS3</p>
+            <div class="skill-bar skill2 wow slideInLeft animated">
+                 <span class="skill-count2">85%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>JQUERY</p>
+            <div class="skill-bar skill3 wow slideInLeft animated">
+                <span class="skill-count3">75%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>JAVASCRIP</p>
+            <div class="skill-bar skill4 wow slideInLeft animated">
+                <span class="skill-count4">65%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>PHP</p>
+            <div class="skill-bar skill5 wow slideInLeft animated">
+                <span class="skill-count5">80%</span>
+            </div>
+        </div>
+        <div class="skill">
+            <p>WORDPRESS</p>
+            <div class="skill-bar skill6 wow slideInLeft animated">
+                <span class="skill-count6">90%</span>
+            </div>
+        </div>
+    </div><!-- end of /.coloumn -->
+    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-157cd5b220a5c80d4ff8e0e70ac069bffd87a61252088146915e8726e5d9f147.js"></script>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js'></script>
+<script id="rendered-js" >
+
+(function ($) {
+  new WOW().init();
+})(jQuery);
+</script>
+
+  
+
+</body>
+
+</html>
+ 
