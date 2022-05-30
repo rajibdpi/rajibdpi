@@ -5,7 +5,7 @@ This is **[Rajib Ahmed](https://rajibdpi.github.io/)**, currently working at **[
 **Here are some ideas about me:**
 
 - 🏢 I have completed B.Sc in **Computer Science and Engineering** from **[DIU](https://diu.ac/)**.
-- 🎓 I’m currently working on **BCS Administration Academy**
+- 🎓 I’m currently working on **[BCS Administration Academy](http://bcsadminacademy.gov.bd/)**
 - 💻 I’m currently learning **JavaScript, BlockChain, Python, Flutter, Dart, C#, Shell script**
 - 🔗 Reach me at web: **[Rajib Ahmed](https://rajibdpi.github.io/)**
 - 📧 Reach me at email: **[Rajb Ahmed](mailto:rajibdpi@gmail.com?subject=[GitHub]%20Source%20Rajib%20Ahmed)**
