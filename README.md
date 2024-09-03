@@ -5,7 +5,7 @@ This is **[Rajib Ahmed](https://rajibdpi.github.io/)**, currently working at **[
 **Here are some ideas about me:**
 
 - 🏢 I have completed my B.Sc in **Computer Science and Engineering** from **[DIU](https://diu.ac/)**.
-- 🎓 I’m currently working on **[BCS Administration Academy](http://bcsadminacademy.gov.bd/)**
+- 🎓 I’m currently working at **[BCS Administration Academy](http://bcsadminacademy.gov.bd/)**
 - 💻 My Skills **Python | C++ | Data Structure & Algorithms | Django | Flask | MySQL | JavaScript | Flutter & Dart**
 - 🔗 Reach me at web: **[Rajib Ahmed](https://rajibdpi.github.io/)**
 - 📧 Reach me at email: **[Rajb Ahmed](mailto:rajibdpi@gmail.com)**
